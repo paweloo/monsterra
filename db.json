@@ -1,16 +1,16 @@
 [
     {
-      "id": "ghost-whey-x-chips-ahoy",
-      "name": "Ghost Whey X Chips Ahoy",
-      "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
-      "price": "$39.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
+      "id": "terrarium_large",
+      "name": "Terrarium 45x45x60",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": "599.00zł",
+      "image": "https://gadzisklep.pl/417-large_default/terrarium-szklane-exo-terra-aztec-45x45x60cm.jpg"
     },
     {
-      "id": "ghost-whey-vegan",
-      "name": "GHOST® Vegan Protein",
-      "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
-      "price": "$49.99",
-      "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+      "id": "terrarium_small",
+      "name": "Terrarium 45x45x45",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": "449zł",
+      "image": "https://a.allegroimg.com/s512/11aefc/8edc169449f1b8bcc3716532577f/TERRARIUM-45X45X45CM-DUZE-ZESTAW-DLA-GEKONA-ZABY"
     }
   ]

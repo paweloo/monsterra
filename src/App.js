@@ -11,7 +11,7 @@ function App() {
   const [detailsVisibility, setDetailsVisibility] = useState(false);
   const [itemBought, setItemBought] = useState(false);
   const getData = () => {
-    fetch("https://my-json-server.typicode.com/wrongakram/demo/products")
+    fetch("https://my-json-server.typicode.com/paweloo/monsterra")
       .then(function (response) {
         console.log(response);
         return response.json();
