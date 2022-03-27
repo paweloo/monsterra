@@ -31,7 +31,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="pickH1">Pick your Ghost</h1>
+      <h1 className="pickH1">Wybierz produkt</h1>
       <div className="container">
         {data &&
           data.length > 0 &&
