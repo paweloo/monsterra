@@ -2,11 +2,11 @@
     "users": [
         {
         "id": 1,
-        "name": "John",
+        "name": "John"
         },
         {
         "id": 2,
-        "name": "Jason",
+        "name": "Jason"
         }
     ]
 }
