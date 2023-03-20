@@ -1,18 +1,12 @@
 {
-    "products": [
+    "users": [
         {
-        "id": "terrarium_large",
-        "name": "Terrarium 45x45x60",
-        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        "price": "599.00zł",
-        "image": "https://gadzisklep.pl/417-large_default/terrarium-szklane-exo-terra-aztec-45x45x60cm.jpg"
+        "id": 1,
+        "name": "John",
         },
         {
-        "id": "terrarium_small",
-        "name": "Terrarium 45x45x45",
-        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "price": "449zł",
-        "image": "https://a.allegroimg.com/s512/11aefc/8edc169449f1b8bcc3716532577f/TERRARIUM-45X45X45CM-DUZE-ZESTAW-DLA-GEKONA-ZABY"
+        "id": 2,
+        "name": "Jason",
         }
     ]
 }
